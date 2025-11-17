@@ -103,8 +103,8 @@ body {
 
 .six img {
   display: inline-block;
-  height: 350px;
-  max-width: 100%;
+  width: 400px; /* or 50% for responsive */
+  height: auto;
   /* height: auto; */
 }
 
