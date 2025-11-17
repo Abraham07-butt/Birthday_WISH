@@ -55,6 +55,10 @@ body {
   text-align: left;
 }
 
+.hbd-chatbox {
+  white-space: pre-line; /* ensures <br> creates line breaks */
+}
+
 .text-box span {
   visibility: hidden;
 }
